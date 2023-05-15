@@ -1,0 +1,6 @@
+Flask==2.3.2
+jsonschema==4.17.3
+mediapipe==0.9.3.0
+opencv-contrib-python==4.7.0.72
+opencv-python==4.7.0.72
+tensorflow-docs @ git+https://github.com/tensorflow/docs@abfbe6e54864baa38dbb985b984acd304be610d4
